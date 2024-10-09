@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    'qual a raiz quadrada de 144?',
+    '12'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o maior oceano do mundo?',
+    'Oceano Pacífico'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Física',
+    'Qual é a unidade de medida da força?',
+    'Newton (N)'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'Qual é o símbolo químico da água?',
+    'H20'
+)
+
+criaCartao(
+    'Biologia',
+    'Onde ocorre a fotossíntese nas plantas?',
+    'Nas folhas'
+)
+
+criaCartao(
+    'História',
+    'Em que ano o Brasil foi descoberto?',
+    '1500'
 )
